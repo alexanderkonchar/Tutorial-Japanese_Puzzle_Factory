@@ -163,7 +163,7 @@ function setupPuzzle() {
         }
     );
 
-    // Check the puzzle soulution
+    // Check the puzzle solution
     document.getElementById("hanjieGrid").addEventListener("mouseup",
         function () {
             let solved = true;
